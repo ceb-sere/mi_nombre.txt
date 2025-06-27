@@ -1,0 +1,29 @@
+.dad{
+text-align: center;
+
+}
+.cj1{
+display: inline-block;
+color: rgb(0, 0, 0);
+height: 250px;
+width: 250px;
+border: 3px rgb(248, 246, 246);
+}
+img{
+    width: 180px;
+    height: 180px ;
+    align-items: center;
+    border: solid color(srgb rgb(0, 0, 0) green blue);
+
+}
+h3{
+    color: aliceblue;
+
+}
+p{
+    color: rgb(133, 233, 158);
+}
+body{
+    box-sizing: border-box;
+    background-color: black;
+}
